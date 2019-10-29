@@ -2,7 +2,7 @@
 ## 1、首先要官网下载最新的安装包 
 下载地址：[XMind For Mac](https://www.xmind.cn/download/mac/)；
 ## 2、下载破解包 XMindCrack.jar
-见附件
+[见附件](https://www.atatech.org/download?file[]=1c41d69f4243f5d2af2bbdb999d0f496%2FXMindCrack.jar)
 ## 3、安装破解包
 将破解包放入指定目录，如下图
 ![image.png](https://ata2-img.cn-hangzhou.oss-pub.aliyun-inc.com/4362a940d0615d4f4f88337fbdac7da8.png)
